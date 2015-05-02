@@ -1,3 +1,18 @@
-# Tencent_Tech_News_Crawler
+腾讯网科技频道首页(http://tech.qq.com/) 新闻的爬取
 
-Tencent News Crawler(http://tech.qq.com/)
+
+<p>功能:</p>
+<p>科技频道中每条的新闻的所有新闻均被爬取，包括：</p>
+  <p>   (1)标题；</p>
+  <p>   (2)全文网址；</p>
+  <p>   (3)新闻配图网址;</p>
+  <p>   (4)发布时间；</p>
+  <p>   (5)新闻摘要；</p>
+  <p>   (6)评论页网址；</p>
+  <p>   (7)当前该新闻的评论数量；</p>
+  <p>   (8)新闻的所有标签。</p>
+  
+  
+  
+<p><strong>注意:</strong></p>
+需要安装BeautifulSoup!
